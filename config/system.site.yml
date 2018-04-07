@@ -1,0 +1,14 @@
+uuid: 08ac52a6-9fd7-488c-877f-2fa92b9ff6fb
+name: defordbailey-nashville-2018-training
+mail: david.needham@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
